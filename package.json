@@ -1,7 +1,7 @@
 {
   "name": "add-pagebreak",
   "main": "./lib/index.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "add a pagebreak that's used in PDF exports",
   "keywords": [],
   "repository": "https://github.com/hyphone/inkdrop-plugin-pagebreak-button",
