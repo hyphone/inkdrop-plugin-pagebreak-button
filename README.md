@@ -1,2 +1,5 @@
-# inkdrop-plugin-pagebreak-button
-add a button to the editor toolbar that creates a pagebreak for PDF exports
+# inkdrop-plugin-pagebreak
+
+Adds the ability to add a pagebreak that's used for PDF exports.
+
+Add a pagebreak via context menu / Pagebreak.

@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Pagebreak",
+        "command": "add-pagebreak"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Pagebreak",
+          "command": "add-pagebreak"
+        }
+      ]
+    }
+  ]
+}
